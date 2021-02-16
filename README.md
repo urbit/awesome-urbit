@@ -7,6 +7,7 @@ A curated collection of projects and tools in the Urbit ecosystem.
 
 ## Airlocks
 
+[Elisp](https://github.com/clonex10100/urbit-api.el)
 [Go](https://github.com/cmarcelo/go-urbit)
 [Haskell](https://github.com/bsima/haskell-urbit-api)
 [Java](https://github.com/ynx0/airlock)
