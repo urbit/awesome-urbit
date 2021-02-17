@@ -3,7 +3,7 @@ A curated collection of projects and tools in the Urbit ecosystem.
 
 ## Games
 
-- [Chess](https://sr.ht/~ray/urbit-chess) - play Chess over Urbit
+[Chess](https://sr.ht/~ray/urbit-chess) - play Chess over Urbit
 
 ## Apps
 
@@ -26,6 +26,7 @@ A curated collection of projects and tools in the Urbit ecosystem.
 - [Nock for Everyday Coders](https://blog.timlucmiptev.space/part1.html) – A 4 part series on Nock
 
 ## Operations
+
 - [arthyn/taisho](https://github.com/arthyn/taisho) – A ship runner and manager for Urbit OS
 - [Urbit operator's cheatsheet](https://blog.urbit.live/urbit-operators-cheatsheet/) (urbit.live)
 - [nisfeb/urbit-boot-automation](https://github.com/nisfeb/urbit-boot-automation) – Trivially start a DigitalOcean droplet and start an Urbit planet
@@ -35,7 +36,21 @@ A curated collection of projects and tools in the Urbit ecosystem.
 - [Self-hosting MinIO S3 for Urbit](https://subject.network/posts/free-urbit-s3-minio/)
 - [Urbit, Nginx and Letsencrypt](https://subject.network/posts/urbit-nginx-letsencrypt/)
 
-## Additional Docs
+## HTTP APIs (Airlock)
+
+- [Elisp](https://github.com/clonex10100/urbit-api.el)
+- [Go](https://github.com/cmarcelo/go-urbit)
+- [Haskell](https://github.com/bsima/haskell-urbit-api)
+- [Java](https://github.com/ynx0/airlock)
+- [Kotlin](https://github.com/gilletteonmeheleparim/urbit_http_api)
+- [Python](https://github.com/baudtack/urlock-py)
+- [Ruby](https://github.com/Zaxonomy/urbit-ruby)
+- [Rust](https://github.com/robkorn/rust-urbit-http-api)
+- [Swift (API Layer)](https://github.com/dclelland/UrsusAPI)
+- [Swift (HTTP Layer)](http://github.com/dclelland/UrsusHTTP)
+- [Typescript](https://github.com/tylershuster/urbit)
+
+## Documentation
 
 - [UP: Userspace Architecture](https://docs.google.com/document/d/1hS_UuResG1S4j49_H-aSshoTOROKBnGoJAaRgOipf54/edit) (Google Docs)
 - [Graph Store Proposal](https://docs.google.com/document/d/1-Gwfg442kV3cdfG7NnWPEf2TMa3uLUTAKkZD70ALZkE/edit) (Google Docs)
