@@ -5,7 +5,7 @@ A curated collection of projects and tools in the Urbit ecosystem.
 
 [Chess](https://sr.ht/~ray/urbit-chess) - play Chess over Urbit
 
-## Airlocks
+## HTTP APIs (Airlock)
 
 [Elisp](https://github.com/clonex10100/urbit-api.el)
 [Go](https://github.com/cmarcelo/go-urbit)
