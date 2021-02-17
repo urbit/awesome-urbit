@@ -8,6 +8,7 @@ A curated collection of projects and tools in the Urbit ecosystem.
 ## Apps
 
 - [rabsef-bicrym/tudumvc: todoMVC on Urbit](https://github.com/rabsef-bicrym/tudumvc/)
+- [ryjm/srrs: a spaced repetition repetition system on urbit](https://github.com/ryjm/srrs)
 
 ## Development
 
