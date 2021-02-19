@@ -12,6 +12,7 @@ A curated collection of projects and tools in the Urbit ecosystem.
 ## Tools
 
 - [Sigil Generator](https://sigil.azimuth.network/) — a tool for generating PNG or SVG sigils in different colors and sizes.
+- [Venetia](https://github.com/tylershuster/venetia) — a simple command-line utility for generating a list of planet names issuable from an Urbit star.
 
 ## Development
 
