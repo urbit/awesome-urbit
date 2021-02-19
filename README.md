@@ -9,6 +9,10 @@ A curated collection of projects and tools in the Urbit ecosystem.
 
 - [ryjm/srrs](https://github.com/ryjm/srrs) – a spaced repetition repetition system on urbit
 
+## Tools
+
+- [Sigil Generator](https://sigil.azimuth.network/) — a tool for generating PNG or SVG sigils in different colors and sizes.
+
 ## Development
 
 - [matildepark/urbit-static-page](https://github.com/matildepark/urbit-static-page/) – Mount an arbitrary HTML page to an Urbit ship
