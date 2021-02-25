@@ -14,6 +14,7 @@ A curated collection of projects and tools in the Urbit ecosystem.
 - [Sigil Generator](https://sigil.azimuth.network/) — a tool for generating PNG or SVG sigils in different colors and sizes.
 - [Venetia](https://github.com/tylershuster/venetia) — a simple command-line utility for generating a list of planet names issuable from an Urbit star.
 - [Urbit Content Archiver](https://github.com/robkorn/urbit-content-archiver) — CLI application that exports channels from your Urbit ship and auto-downloads any directly linked content.
+- [Urbit Webhook Funnel](https://github.com/robkorn/urbit-webhook-funnel) - CLI application which funnels external webhook event data to an Urbit chat.
 
 ## Development
 
