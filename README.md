@@ -42,6 +42,7 @@ A curated collection of projects and tools in the Urbit ecosystem.
 - [mogfus-ropduc/urdocker](https://github.com/mogfus-ropduc/urdocker) – Builds a Docker image with the latest Urbit binary. Mounts a local directory in the container for your pier. Also lets you set a port of your choosing.
 - [Self-hosting MinIO S3 for Urbit](https://subject.network/posts/free-urbit-s3-minio/)
 - [Urbit, Nginx and Letsencrypt](https://subject.network/posts/urbit-nginx-letsencrypt/)
+- [forfel-norfel/rocket](https://github.com/forfel-norfel/rocket) – Rocket is a minimal Linux-based OS for hosting Urbit
 
 ## HTTP APIs (Airlock)
 
