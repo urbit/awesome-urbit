@@ -1,4 +1,4 @@
-# awesome-urbit
+# awesome urbit [![](https://img.shields.io/badge/~-awesome%20urbit-lightgrey)](https://github.com/urbit/awesome-urbit)
 A curated collection of projects and tools in the Urbit ecosystem.
 
 ## Games
