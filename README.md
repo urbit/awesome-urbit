@@ -35,6 +35,7 @@ A curated collection of projects and tools in the Urbit ecosystem.
 ## Operations
 
 - [arthyn/taisho](https://github.com/arthyn/taisho) – A ship runner and manager for Urbit OS
+- [How to run Urbit on Windows with Docker Desktop](https://gist.github.com/botter-nidnul/bc55769afe006de6f93b27390e5d1267)
 - [Urbit operator's cheatsheet](https://blog.urbit.live/urbit-operators-cheatsheet/) (urbit.live)
 - [nisfeb/urbit-boot-automation](https://github.com/nisfeb/urbit-boot-automation) – Trivially start a DigitalOcean droplet and start an Urbit planet
 - [flagday.sh](https://gist.github.com/philipcmonk/8e3d095b9545069237c759cd9aad32c2#file-flagday-sh-L175-L176)
