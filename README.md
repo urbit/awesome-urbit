@@ -1,20 +1,14 @@
 # awesome urbit [![](https://img.shields.io/badge/~-awesome%20urbit-lightgrey)](https://github.com/urbit/awesome-urbit)
 A curated collection of projects and tools in the Urbit ecosystem.
 
-## Applications
-
-- [srrs](https://github.com/ryjm/srrs) – a spaced repetition repetition system on urbit
-- [Calendar](https://github.com/taalhavras/ucal) - a calendar styled after Google Calendar
-- [Canvas](https://github.com/yosoyubik/canvas) - a collaborative drawing application
-
-## Application Tooling
-
-- [btc-agents](https://github.com/timlucmiptev/btc-agents) - agents for interacting with a Bitcoin full node.
-- [urbit-webrtc](https://github.com/black-river-software/urbit-webrtc) - agents for establishing WebRTC connections between ships.
-
 ## Games
 
-- [Chess](https://sr.ht/~ray/urbit-chess) - play Chess
+- [Chess](https://sr.ht/~ray/urbit-chess) - play Chess over Urbit
+- [taalhavras/ucal](https://github.com/taalhavras/ucal) – A martian calendar
+
+## Apps
+
+- [ryjm/srrs](https://github.com/ryjm/srrs) – a spaced repetition repetition system on urbit
 
 ## Tools
 
@@ -25,26 +19,26 @@ A curated collection of projects and tools in the Urbit ecosystem.
 
 ## Development
 
-- [urbit-static-page](https://github.com/matildepark/urbit-static-page/) – Mount an arbitrary HTML page to an Urbit ship
-- [create-landscape-app](https://github.com/urbit/create-landscape-app) – Get started making a simple app for Landscape with a few commands
-- [urbit-chatbot-framework](https://github.com/robkorn/urbit-chatbot-framework) – A framework that allows anyone to create an Urbit Chatbot with only a few lines of code
+- [matildepark/urbit-static-page](https://github.com/matildepark/urbit-static-page/) – Mount an arbitrary HTML page to an Urbit ship
+- [urbit/create-landscape-app](https://github.com/urbit/create-landscape-app) – Get started making a simple app for Landscape with a few commands
+- [robkorn/urbit-chatbot-framework](https://github.com/robkorn/urbit-chatbot-framework) – A framework that allows anyone to create an Urbit Chatbot with only a few lines of code
 
 ### Learning 
 
-- [TuduMVC](https://github.com/rabsef-bicrym/tudumvc/) – todoMVC on Urbit
+- [rabsef-bicrym/tudumvc](https://github.com/rabsef-bicrym/tudumvc/) – todoMVC on Urbit
 - [Beginning Hoon Introduction](https://hooniversity.org/beginning-hoon-introduction-2/) (hooniversity.org)
 - [hoon-cheat-sheet](https://storage.googleapis.com/media.urbit.org/docs/hoon-cheat-sheet-2020-07-24.pdf) (PDF)
-- [The Complete Guide to Gall and Landscape](https://github.com/timlucmiptev/gall-guide) – Complete guide to Gall and Landscape apps on Urbit
+- [timlucmiptev/gall-guide](https://github.com/timlucmiptev/gall-guide) – Complete guide to Gall and Landscape apps on Urbit
 - [Gall 101 – HTTP](https://hooniversity.org/gall-101-http/) (hooniversity.org)
 - [CS 498MC • Martian Computing](https://davis68.github.io/martian-computing/) (University of Illinois)
 - [Nock for Everyday Coders](https://blog.timlucmiptev.space/part1.html) – A 4 part series on Nock
 
 ## Operations
 
-- [taisho](https://github.com/arthyn/taisho) – A ship runner and manager for Urbit OS
+- [arthyn/taisho](https://github.com/arthyn/taisho) – A ship runner and manager for Urbit OS
 - [How to run Urbit on Windows with Docker Desktop](https://gist.github.com/botter-nidnul/bc55769afe006de6f93b27390e5d1267)
 - [Urbit operator's cheatsheet](https://blog.urbit.live/urbit-operators-cheatsheet/) (urbit.live)
-- [urbit-boot-automation](https://github.com/nisfeb/urbit-boot-automation) – Trivially start a DigitalOcean droplet and start an Urbit planet
+- [nisfeb/urbit-boot-automation](https://github.com/nisfeb/urbit-boot-automation) – Trivially start a DigitalOcean droplet and start an Urbit planet
 - [flagday.sh](https://gist.github.com/philipcmonk/8e3d095b9545069237c759cd9aad32c2#file-flagday-sh-L175-L176)
 - [CaptEmulation/urbit-docker-compose](https://github.com/CaptEmulation/urbit-docker-compose) – Self container Let's Encrypt / certbot / nginx / urbit docker-compose deployment
 - [mogfus-ropduc/urdocker](https://github.com/mogfus-ropduc/urdocker) – Builds a Docker image with the latest Urbit binary. Mounts a local directory in the container for your pier. Also lets you set a port of your choosing.
