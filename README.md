@@ -7,11 +7,6 @@ A curated collection of projects and tools in the Urbit ecosystem.
 - [Calendar](https://github.com/taalhavras/ucal) - a calendar styled after Google Calendar
 - [Canvas](https://github.com/yosoyubik/canvas) - a collaborative drawing application
 
-## Application Tooling
-
-- [btc-agents](https://github.com/timlucmiptev/btc-agents) - agents for interacting with a Bitcoin full node.
-- [urbit-webrtc](https://github.com/black-river-software/urbit-webrtc) - agents for establishing WebRTC connections between ships.
-
 ## Games
 
 - [Chess](https://sr.ht/~ray/urbit-chess) - play Chess
@@ -28,6 +23,11 @@ A curated collection of projects and tools in the Urbit ecosystem.
 - [urbit-static-page](https://github.com/matildepark/urbit-static-page/) – Mount an arbitrary HTML page to an Urbit ship
 - [create-landscape-app](https://github.com/urbit/create-landscape-app) – Get started making a simple app for Landscape with a few commands
 - [urbit-chatbot-framework](https://github.com/robkorn/urbit-chatbot-framework) – A framework that allows anyone to create an Urbit Chatbot with only a few lines of code
+
+### Integrations
+
+- [btc-agents](https://github.com/timlucmiptev/btc-agents) - agents for interacting with a Bitcoin full node.
+- [urbit-webrtc](https://github.com/black-river-software/urbit-webrtc) - agents for establishing WebRTC connections between ships.
 
 ### Learning 
 
