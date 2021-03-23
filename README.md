@@ -56,6 +56,7 @@ A curated collection of projects and tools in the Urbit ecosystem.
 
 ## HTTP APIs (Airlock)
 
+- [Deno](https://github.com/tomholford/denurbit)
 - [Elisp](https://github.com/clonex10100/urbit-api.el)
 - [Go](https://github.com/cmarcelo/go-urbit)
 - [Haskell](https://github.com/bsima/haskell-urbit-api)
