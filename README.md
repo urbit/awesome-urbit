@@ -52,6 +52,7 @@ A curated collection of projects and tools in the Urbit ecosystem.
 - [Urbit, Nginx and Letsencrypt](https://subject.network/posts/urbit-nginx-letsencrypt/)
 - [Rocket](https://github.com/forfel-norfel/rocket) – Rocket is a minimal Linux-based OS for hosting Urbit
 - [Try Urbit](https://github.com/mikeosborne/tryurbit) - Let's new users experience the Urbit Landscape interface with no technical knowledge
+- [Home-Urbit](https://github.com/OdysLam/home-urbit) - Setup Urbit on your Raspberry pi 4 in minutes
 
 
 ## HTTP APIs (Airlock)
