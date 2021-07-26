@@ -18,6 +18,7 @@ A curated collection of projects and tools in the Urbit ecosystem.
 - [Urbit Content Archiver](https://github.com/robkorn/urbit-content-archiver) — CLI application that exports channels from your Urbit ship and auto-downloads any directly linked content.
 - [Urbit Webhook Funnel](https://github.com/robkorn/urbit-webhook-funnel) - CLI application which funnels external webhook event data to an Urbit chat.
 - [graph-store query](https://github.com/h5gq3/graph-query) - shoe/CLI app and generator that filters and queries graph-store nodes
+- [ASCII Sigil Generator](https://github.com/textprotocol/sigil) - a tool for generating ASCII sigils in the command line.
 
 ## Development
 
@@ -53,6 +54,7 @@ A curated collection of projects and tools in the Urbit ecosystem.
 - [Urbit, Nginx and Letsencrypt](https://subject.network/posts/urbit-nginx-letsencrypt/)
 - [Rocket](https://github.com/forfel-norfel/rocket) – Rocket is a minimal Linux-based OS for hosting Urbit
 - [Try Urbit](https://github.com/mikeosborne/tryurbit) - Let's new users experience the Urbit Landscape interface with no technical knowledge
+- [Home-Urbit](https://github.com/OdysLam/home-urbit) - Setup Urbit on your Raspberry pi 4 in minutes
 
 
 ## HTTP APIs (Airlock)
@@ -68,6 +70,7 @@ A curated collection of projects and tools in the Urbit ecosystem.
 - [Swift (API Layer)](https://github.com/dclelland/UrsusAPI)
 - [Swift (HTTP Layer)](http://github.com/dclelland/UrsusHTTP)
 - [Typescript](https://github.com/tylershuster/urbit)
+- [Elm](https://github.com/figbus/elm-urbit-api)
 
 ## Documentation
 
