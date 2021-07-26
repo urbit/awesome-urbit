@@ -68,6 +68,7 @@ A curated collection of projects and tools in the Urbit ecosystem.
 - [Swift (API Layer)](https://github.com/dclelland/UrsusAPI)
 - [Swift (HTTP Layer)](http://github.com/dclelland/UrsusHTTP)
 - [Typescript](https://github.com/tylershuster/urbit)
+- [Elm](https://github.com/figbus/elm-urbit-api)
 
 ## Documentation
 
