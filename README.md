@@ -6,6 +6,7 @@ A curated collection of projects and tools in the Urbit ecosystem.
 - [srrs](https://github.com/ryjm/srrs) – a spaced repetition repetition system on urbit
 - [Calendar](https://github.com/taalhavras/ucal) - a calendar styled after Google Calendar
 - [Canvas](https://github.com/yosoyubik/canvas) - a collaborative drawing application
+- [Urbit uuweb](http://ashtree.systems/uuulogin/login.html) - A restricted subset of the www. Access to the uuu is gated by owning an Urbit planet.
 
 ## Games
 
