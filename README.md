@@ -41,6 +41,7 @@ A curated collection of projects and tools in the Urbit ecosystem.
 - [Gall 101 – HTTP](https://hooniversity.org/gall-101-http/) (hooniversity.org)
 - [CS 498MC • Martian Computing](https://davis68.github.io/martian-computing/) (University of Illinois)
 - [Nock for Everyday Coders](https://blog.timlucmiptev.space/part1.html) – A 4 part series on Nock
+- [Urbit React Cookbook](https://github.com/witfyl-ravped/urbit-react-cookbook) – These examples will get you started building React apps for Urbit
 
 ## Operations
 
