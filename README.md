@@ -36,7 +36,7 @@ A curated collection of projects and tools in the Urbit ecosystem.
 
 - [TuduMVC](https://github.com/rabsef-bicrym/tudumvc/) – todoMVC on Urbit
 - [Beginning Hoon Introduction](https://hooniversity.org/beginning-hoon-introduction-2/) (hooniversity.org)
-- [hoon-cheat-sheet](https://storage.googleapis.com/media.urbit.org/docs/hoon-cheat-sheet-2020-07-24.pdf) (PDF)
+- [hoon-cheat-sheet](https://media.urbit.org/docs/hooncard-unbranded-2021-09-12.pdf) (PDF)
 - [The Complete Guide to Gall and Landscape](https://github.com/timlucmiptev/gall-guide) – Complete guide to Gall and Landscape apps on Urbit
 - [Gall 101 – HTTP](https://hooniversity.org/gall-101-http/) (hooniversity.org)
 - [CS 498MC • Martian Computing](https://davis68.github.io/martian-computing/) (University of Illinois)
