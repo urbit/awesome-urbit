@@ -43,6 +43,7 @@ A curated collection of projects and tools in the Urbit ecosystem.
 - [CS 498MC • Martian Computing](https://davis68.github.io/martian-computing/) (University of Illinois)
 - [Nock for Everyday Coders](https://blog.timlucmiptev.space/part1.html) – A 4 part series on Nock
 - [Urbit React Cookbook](https://github.com/witfyl-ravped/urbit-react-cookbook) – These examples will get you started building React apps for Urbit
+- [Urbit FAQ](https://github.com/ashelkovnykov/urbit-faq) - An FAQ of practical Hoon/Urbit knowledge that's still finding its way into the official documentation
 
 ## Operations
 
