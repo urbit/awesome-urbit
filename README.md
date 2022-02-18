@@ -21,6 +21,7 @@ A curated collection of projects and tools in the Urbit ecosystem.
 - [graph-store query](https://github.com/h5gq3/graph-query) - shoe/CLI app and generator that filters and queries graph-store nodes
 - [ASCII Sigil Generator](https://github.com/textprotocol/sigil) - a tool for generating ASCII sigils in the command line.
 - [UrSR](https://github.com/hosted-fornet/ursr) - Urbit Speech Recognition
+- [Urbit Star Feed](https://twitter.com/UrbitStarFeed) - Twitter feed of Urbit stars sold on OpenSea, updated every five minutes.
 
 ## Development
 
