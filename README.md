@@ -85,3 +85,20 @@ A curated collection of projects and tools in the Urbit ecosystem.
 - [Graph Store Proposal](https://docs.google.com/document/d/1-Gwfg442kV3cdfG7NnWPEf2TMa3uLUTAKkZD70ALZkE/edit) (Google Docs)
 - [Landscape Architecture](https://docs.google.com/document/d/10MnlRo29L7h0rLf6hB3s6l--KeCak3lnAJiZb5osmtY/edit)
 - [S3 setup via Dojo](https://groups.google.com/a/urbit.org/g/dev/c/JUE12GFg2C8/m/gMLKsweKCAAJ) (Urbit dev mailing list
+
+
+## Podcasts
+
+Podcast Series:
+- Other Life (Justin Murphy) - [Website](https://podcast.otherlife.co)
+- The Stack Podcast (Orbis Ledger) - [Website](https://thestackspodcast.com/)
+- Understanding Urbit - [Apple Podcast](https://podcasts.apple.com/us/podcast/understanding-urbit/id1504188804) | [Spotify](https://open.spotify.com/show/0Iu8wvvgYzgmizSytfnqVY)
+
+Podcast Episodes:
+- Tales from the Crypt #123: Bitcoin Sign Guy on Urbit (2019 Dec) - [Apple Podcast](https://itunes.apple.com/us/podcast/tales-from-the-crypt/id1292381204?mt=2&uo=4) | [Spotify](https://open.spotify.com/show/0Vd8E5vWnCfB4xucu87WNZ) | [Anchor](https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-123-Bitcoin-Sign-Guy-on-Urbit-e9mdvo/a-a172ecr)
+- BlockHash: Exploring the Blockchain: Galen Wolfe - CEO of Urbit (2019 Dec) - [Apple Podcast](https://podcasts.apple.com/us/podcast/blockhash-exploring-the-blockchain/id1241712666?uo=4) | [Spotify](https://open.spotify.com/show/4AGqU8qxIYVkxXM4q2XpO1) | [Anchor](https://anchor.fm/blockhash-podcast/episodes/Galen-Wolfe---CEO-of-Urbit-e9qfl8)
+- Palladium Podcast 49: Humane Computing with Urbit (2020 Nov) - [Website](https://palladiummag.com/2020/11/24/palladium-podcast-49-humane-computing-with-urbit/)
+- Build The Future: Galen Wolfe-Pauly of Tlon - The Future of Computing, Communities and Privacy (2021 Jan) - [Website](https://www.buildthefuturepodcast.com/episode/galen-wolfe-pauly-tlon)
+- Digitally Rare: Urbit ID Is An NFT (2021 Apr) - [Apple Podcast](https://podcasts.apple.com/us/podcast/urbit-id-is-an-nft/id1413304564?i=1000504616273) | [Spotify](https://open.spotify.com/episode/5Po7nIcMbdlFUe9wreKjsP?si=82b4bbb4c98949f5) | [Anchor](https://anchor.fm/digitallyrare/episodes/Urbit-ID-Is-An-NFT-eolni5)
+- Bitcoin Magazine Podcast: Escaping the Cloud with Bitcoin Sign Guy (2021 Apr) - [Apple Podcast](https://podcasts.apple.com/us/podcast/bitcoin-sign-guy-discusses-urbit-and-bitcoin-episode-59/id1335227408?i=1000475735033) | [Spotify](https://open.spotify.com/episode/5hYGaXcrcxhqMbsh842YrK?si=a016beabc33544f3) 
+- Software Daily: Urbit with Galen Wolfe-Pauly (2021 Dec) - [Website](https://softwareengineeringdaily.com/2021/12/17/urbit-with-galen-wolfe-pauly/)
