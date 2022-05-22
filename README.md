@@ -47,7 +47,7 @@ A curated collection of projects and tools in the Urbit ecosystem.
 - [Urbit React Cookbook](https://github.com/witfyl-ravped/urbit-react-cookbook) – These examples will get you started building React apps for Urbit
 - [Urbit FAQ](https://github.com/ashelkovnykov/urbit-faq) - An FAQ of practical Hoon/Urbit knowledge that's still finding its way into the official documentation
 
-### Toold
+### Tools
 
 - [hoon.vim](https://github.com/urbit/hoon.vim) - Vim plugin for Hoon
 - [hoon-language-server](https://github.com/urbit/hoon-language-server) - Language Server for Hoon
