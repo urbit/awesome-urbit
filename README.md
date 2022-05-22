@@ -47,6 +47,12 @@ A curated collection of projects and tools in the Urbit ecosystem.
 - [Urbit React Cookbook](https://github.com/witfyl-ravped/urbit-react-cookbook) – These examples will get you started building React apps for Urbit
 - [Urbit FAQ](https://github.com/ashelkovnykov/urbit-faq) - An FAQ of practical Hoon/Urbit knowledge that's still finding its way into the official documentation
 
+### Tools
+
+- [hoon.vim](https://github.com/urbit/hoon.vim) - Vim plugin for Hoon
+- [hoon-language-server](https://github.com/urbit/hoon-language-server) - Language Server for Hoon
+- [hoon-runes.vim](https://git.sr.ht/~matthias_schaub/hoon-runes.vim) - Vim help file for Hoon Runes in disguise of a plugin
+
 ## Operations
 
 - [taisho](https://github.com/arthyn/taisho) – A ship runner and manager for Urbit OS
@@ -85,3 +91,19 @@ A curated collection of projects and tools in the Urbit ecosystem.
 - [Graph Store Proposal](https://docs.google.com/document/d/1-Gwfg442kV3cdfG7NnWPEf2TMa3uLUTAKkZD70ALZkE/edit) (Google Docs)
 - [Landscape Architecture](https://docs.google.com/document/d/10MnlRo29L7h0rLf6hB3s6l--KeCak3lnAJiZb5osmtY/edit)
 - [S3 setup via Dojo](https://groups.google.com/a/urbit.org/g/dev/c/JUE12GFg2C8/m/gMLKsweKCAAJ) (Urbit dev mailing list
+
+
+## Podcasts
+
+Podcast Series:
+- Dalten Collective
+- Other Life (Justin Murphy)
+- The Stack Podcast (Orbis Ledger)
+- Understanding Urbit
+
+Podcast Episodes:
+- Palladium Podcast 49: Humane Computing with Urbit (2020 Nov)
+- Build The Future: Galen Wolfe-Pauly of Tlon - The Future of Computing, Communities and Privacy (2021 Jan)
+- Digitally Rare: Urbit ID Is An NFT (2021 Apr)
+- Bitcoin Magazine Podcast: Escaping the Cloud with Bitcoin Sign Guy (2021 Apr)
+- Software Daily: Urbit with Galen Wolfe-Pauly (2021 Dec)
