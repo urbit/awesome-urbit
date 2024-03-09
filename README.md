@@ -167,6 +167,13 @@ A curated collection of projects and tools in the Urbit ecosystem.
     - [Nock for Everyday Coders](https://blog.timlucmiptev.space/part1.html): A 4-part series on Nock
     - [Deriving Nock 6 through 11](https://github.com/niblyx-malnus/Nock10Tutorial): Only Nock 0 - 5 are strictly necessary; Nock 6 - 11 are just for convenience (find out why)
     - [NockPU](https://github.com/mopfel-winrux/NockPU): Experimental hardware for running Nock directly
+- Hoon:
+    - [Hoon Cheatsheet](https://storage.googleapis.com/media.urbit.org/docs/hoon-cheat-sheets-2023-01-10.pdf): Quick lookup of runes, auras, operators, and syntax
+    - Urbit Academy: Hands-on instruction with a cohort of peers. Exercises, discussion, and certification.
+        - [Hoon Academy](https://docs.urbit.org/courses/urbit-academy/ha): Learn to read & interpret nonspecialist Hoon code
+        - [App Academy](https://docs.urbit.org/courses/urbit-academy/aa): Learn to build an Urbit agent and connect it to a web frontend
+        - [App Workshop](https://docs.urbit.org/courses/urbit-academy/aw): Hands-on intensive course focusing on creating apps that are ready for users
+        - [Core Academy](https://docs.urbit.org/courses/urbit-academy/ca): Prepares student for working directly on the Arvo kernel
 
 ## Operations
 
@@ -198,31 +205,31 @@ A curated collection of projects and tools in the Urbit ecosystem.
 
 ### Series
 
-- Zero K: The Urbit Foundation's official podcast - [YouTube](https://www.youtube.com/@zero-k-podcast?themeRefresh=1)
-- Red Horizon Podcast: The official podcast of ChorusOne's Urbit wing, Red Horizon - [YouTube](https://www.youtube.com/@RedHorizonHost)
-- Understanding Urbit: A timeless & comprehensive guide through Urbit's design ideas from 2020 - [Apple Podcast](https://podcasts.apple.com/us/podcast/understanding-urbit/id1504188804) | [Spotify](https://open.spotify.com/show/0Iu8wvvgYzgmizSytfnqVY)
-- The Stack Podcast: Individual sovereignty & Urbit - [Website](https://thestackspodcast.com/) | [Apple Podcast](https://podcasts.apple.com/us/podcast/the-stack-podcast/id1539596322)
-- Other Life: A podcast by Urbit enthusiast Justin Murphy (high frequency of Urbit conversation) - [Website](https://podcast.otherlife.co)
-- Crazy Wisdom: Finding meaning with Stewart Alsop and his guests (high frequency of Urbit conversation) - [Website](https://crazywisdom.libsyn.com)
-- The Network Age: Exploring everything from blockchain & crypto to culture and digital nomadism (high frequency of Urbit conversation) - [Apple Podcast](https://podcasts.apple.com/us/podcast/the-network-age/id1639202594)
+- **Zero K** The Urbit Foundation's official podcast - [YouTube](https://www.youtube.com/@zero-k-podcast?themeRefresh=1)
+- **Red Horizon Podcast** The official podcast of Chorus One's Urbit wing, Red Horizon - [YouTube](https://www.youtube.com/@RedHorizonHost)
+- **Understanding Urbit** A timeless & comprehensive guide through Urbit's design ideas from 2020 - [Apple Podcast](https://podcasts.apple.com/us/podcast/understanding-urbit/id1504188804) | [Spotify](https://open.spotify.com/show/0Iu8wvvgYzgmizSytfnqVY)
+- **The Stack Podcast** Individual sovereignty & Urbit - [Website](https://thestackspodcast.com/) | [Apple Podcast](https://podcasts.apple.com/us/podcast/the-stack-podcast/id1539596322)
+- **Other Life** A podcast by Urbit enthusiast Justin Murphy (high frequency of Urbit conversation) - [Website](https://podcast.otherlife.co)
+- **Crazy Wisdom** Finding meaning with Stewart Alsop and his guests (high frequency of Urbit conversation) - [Website](https://crazywisdom.libsyn.com)
+- **The Network Age** Exploring everything from blockchain & crypto to culture & digital nomadism (high frequency of Urbit conversation) - [Apple Podcast](https://podcasts.apple.com/us/podcast/the-network-age/id1639202594)
 
 ### Recurring
 
-- Epicenter Podcast: In-depth conversations about blockchain, DeFi, and cryptofinance
-    - [E205](https://epicenter.tv/episodes/205) - Galen Wolfe-Pauly: Urbit – A Digital Republic Reinventing the Internet
-    - [E450](https://epicenter.tv/episodes/450) - Josh Lehman: Urbit – The Peer-to-Peer Network Re-Decentralizing the Internet
-    - [E475](https://epicenter.tv/episodes/475) - Ted Blackman & Gary Lieberman: Urbit - Decentralized Computing Platforms
-    - [E491](https://epicenter.tv/episodes/491) - Tim Galebach: Uqbar – Smart Contracts on Urbit
+- **Epicenter Podcast** In-depth conversations about blockchain, DeFi, and cryptofinance
+    - [E205](https://epicenter.tv/episodes/205) - Galen Wolfe-Pauly: Urbit – A Digital Republic Reinventing the Internet *(2017 Oct)*
+    - [E450](https://epicenter.tv/episodes/450) - Josh Lehman: Urbit – The Peer-to-Peer Network Re-Decentralizing the Internet *(2022 Jun)*
+    - [E475](https://epicenter.tv/episodes/475) - Ted Blackman & Gary Lieberman: Urbit - Decentralized Computing Platforms *(2022 Dec)*
+    - [E491](https://epicenter.tv/episodes/491) - Tim Galebach: Uqbar – Smart Contracts on Urbit *(2023 Apr)*
 
 ### Individual Episodes
 
-- Tales from the Crypt #123: Bitcoin Sign Guy on Urbit (2019 Dec) - [Apple Podcast](https://itunes.apple.com/us/podcast/tales-from-the-crypt/id1292381204?mt=2&uo=4) | [Spotify](https://open.spotify.com/show/0Vd8E5vWnCfB4xucu87WNZ) | [Anchor](https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-123-Bitcoin-Sign-Guy-on-Urbit-e9mdvo/a-a172ecr)
-- BlockHash: Exploring the Blockchain: Galen Wolfe - CEO of Urbit (2019 Dec) - [Apple Podcast](https://podcasts.apple.com/us/podcast/blockhash-exploring-the-blockchain/id1241712666?uo=4) | [Spotify](https://open.spotify.com/show/4AGqU8qxIYVkxXM4q2XpO1) | [Anchor](https://anchor.fm/blockhash-podcast/episodes/Galen-Wolfe---CEO-of-Urbit-e9qfl8)
-- Palladium Podcast 49: Humane Computing with Urbit (2020 Nov) - [Website](https://palladiummag.com/2020/11/24/palladium-podcast-49-humane-computing-with-urbit/)
-- Build The Future: Galen Wolfe-Pauly of Tlon - The Future of Computing, Communities and Privacy (2021 Jan) - [Website](https://www.buildthefuturepodcast.com/episode/galen-wolfe-pauly-tlon)
-- Digitally Rare: Urbit ID Is An NFT (2021 Apr) - [Apple Podcast](https://podcasts.apple.com/us/podcast/urbit-id-is-an-nft/id1413304564?i=1000504616273) | [Spotify](https://open.spotify.com/episode/5Po7nIcMbdlFUe9wreKjsP?si=82b4bbb4c98949f5) | [Anchor](https://anchor.fm/digitallyrare/episodes/Urbit-ID-Is-An-NFT-eolni5)
-- Bitcoin Magazine Podcast: Escaping the Cloud with Bitcoin Sign Guy (2021 Apr) - [Apple Podcast](https://podcasts.apple.com/us/podcast/bitcoin-sign-guy-discusses-urbit-and-bitcoin-episode-59/id1335227408?i=1000475735033) | [Spotify](https://open.spotify.com/episode/5hYGaXcrcxhqMbsh842YrK?si=a016beabc33544f3)
-- Software Daily: Urbit with Galen Wolfe-Pauly (2021 Dec) - [Website](https://softwareengineeringdaily.com/2021/12/17/urbit-with-galen-wolfe-pauly/)
+- **Tales from the Crypt** #123: Bitcoin Sign Guy on Urbit *(2019 Dec)* - [Apple Podcast](https://itunes.apple.com/us/podcast/tales-from-the-crypt/id1292381204?mt=2&uo=4) | [Spotify](https://open.spotify.com/show/0Vd8E5vWnCfB4xucu87WNZ) | [Anchor](https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-123-Bitcoin-Sign-Guy-on-Urbit-e9mdvo/a-a172ecr)
+- **BlockHash: Exploring the Blockchain** Galen Wolfe - CEO of Urbit *(2019 Dec)* - [Apple Podcast](https://podcasts.apple.com/us/podcast/blockhash-exploring-the-blockchain/id1241712666?uo=4) | [Spotify](https://open.spotify.com/show/4AGqU8qxIYVkxXM4q2XpO1) | [Anchor](https://anchor.fm/blockhash-podcast/episodes/Galen-Wolfe---CEO-of-Urbit-e9qfl8)
+- **Palladium Podcast** #49: Humane Computing with Urbit *(2020 Nov)* - [Website](https://palladiummag.com/2020/11/24/palladium-podcast-49-humane-computing-with-urbit/)
+- **Build The Future** Galen Wolfe-Pauly of Tlon - The Future of Computing, Communities and Privacy *(2021 Jan)* - [Website](https://www.buildthefuturepodcast.com/episode/galen-wolfe-pauly-tlon)
+- **Digitally Rare** Urbit ID Is An NFT *(2021 Apr)* - [Apple Podcast](https://podcasts.apple.com/us/podcast/urbit-id-is-an-nft/id1413304564?i=1000504616273) | [Spotify](https://open.spotify.com/episode/5Po7nIcMbdlFUe9wreKjsP?si=82b4bbb4c98949f5) | [Anchor](https://anchor.fm/digitallyrare/episodes/Urbit-ID-Is-An-NFT-eolni5)
+- **Bitcoin Magazine Podcast** Escaping the Cloud with Bitcoin Sign Guy *(2021 Apr)* - [Apple Podcast](https://podcasts.apple.com/us/podcast/bitcoin-sign-guy-discusses-urbit-and-bitcoin-episode-59/id1335227408?i=1000475735033) | [Spotify](https://open.spotify.com/episode/5hYGaXcrcxhqMbsh842YrK?si=a016beabc33544f3)
+- **Software Daily** Urbit with Galen Wolfe-Pauly *(2021 Dec)* - [Website](https://softwareengineeringdaily.com/2021/12/17/urbit-with-galen-wolfe-pauly/)
 
 ## Archive
 
