@@ -4,6 +4,8 @@ A curated collection of projects and tools in the Urbit ecosystem.
 
 ## Applications
 
+- [ahoy](https://github.com/midden-fabler/ahoy): ship monitoring toolbox
+  - ~mister-dister-midden-fabler/ahoy
 - [Albums](https://github.com/structure-group/albums): A photo sharing app
     - ~topdem/albums
 - Alphabet: Global p2p prediction market
@@ -44,12 +46,12 @@ A curated collection of projects and tools in the Urbit ecosystem.
     - ~dister-migrev-dolseg/feeds
 - [File Share](https://github.com/nathanlever/file-share?tab=readme-ov-file): A simple file sharing app
     - ~nomzod-wacbyr/file-share
+- fount: desk hash monitoring tool
+    - ~mister-dister-midden-fabler/fount
 - Gate: Seamless authentication for Urbit
     - ~dister-dozzod-sortug/gate
 - [Gora (ピタゴラ装置)](https://github.com/hanfel-dovned/gora): A Proof of Attendance Protocol for Urbit
     - ~ridlyd/gora
-- [Group Expenses](https://github.com/matthiasschaub/tahuti): An expense sharing app
-    - ~talfus-laddus/tahuti
 - [hodl](https://github.com/tomholford/hodl): A portfolio for all that you hodl
     - ~hodler-datder-sonnet/hodl
 - [houston](https://github.com/assemblycapital/houston): Moon Management Dashboard
@@ -94,6 +96,8 @@ A curated collection of projects and tools in the Urbit ecosystem.
     - ~dister-nocsyx-lassul/sphinx
 - Surface: Experimental interface for rendering other apps
     - ~doznec-dozzod-marnus/surface
+- [Tahuti](https://github.com/matthiasschaub/tahuti): An expense sharing app
+  - ~talfus-laddus/tahuti
 - Tally: Ring signature voting app
     - ~pocwet/tally
 - Temple O Chess: A faithful recreation of Chess by Terry Davis
@@ -243,6 +247,7 @@ once again.
 - [Calendar](https://github.com/taalhavras/ucal): A Calendar styled after Google Calendar
 - [Click](https://github.com/hanfel-dovned/Click): Cookie clicker
 - [Forms](https://github.com/nallux-dozryl/urbit-forms): Create forms and surveys
+- [kenning](https://github.com/0x70b1a5/kenning): Memorize passages of text (every passage is a "kenning")
 - [Pony](https://github.com/hanfel-dovned/Pony): Long-form threaded conversations on Urbit
 - [Portal](https://github.com/worpet-bildet/portal): Decentralized content curation and discovery
 - [rote](https://github.com/lukechampine/rote): A flashcard app for Urbit
