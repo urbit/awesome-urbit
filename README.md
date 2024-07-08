@@ -66,6 +66,8 @@ A curated collection of projects and tools in the Urbit ecosystem.
     - ~nodmyn-dosrux/lemur
 - [live](https://github.com/polrel-witter/live): Event coordination app
     - ~mocbel/live
+- [Maat](https://github.com/matthiasschaub/maat): A todo app
+    - ~talfus-laddus/maat
 - [Micro](https://github.com/hanfel-dovned/Micro): Create, share, and explore micro apps
     - ~ridlyd/micro
 - [Million $ Urbit App](https://pal.dev/suite/million): Uncharted territory available for purchase!
