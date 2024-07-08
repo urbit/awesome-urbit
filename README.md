@@ -161,11 +161,11 @@ A curated collection of projects and tools in the Urbit ecosystem.
 
 - [Pynoun](https://github.com/urbit/tools/blob/master/pkg/pynoun/noun.py): Python library for natively managing nouns
 
-### SAIL
+### Sail
 
-- [gin & tonic](https://github.com/arthyn/gin-tonic): 2 utilities for making SAIL development easier: auto-sync and auto-refresh
-- [Mast](https://github.com/R-JG/mast): A library for building fully dynamic SAIL frontends
-- [Rudder](https://github.com/Fang-/suite): A framework for SAIL development (Hoon-only HTML)
+- [gin & tonic](https://github.com/arthyn/gin-tonic): 2 utilities for making Sail development easier: auto-sync and auto-refresh
+- [Mast](https://github.com/R-JG/mast): A library for building fully dynamic Sail frontends
+- [Rudder](https://github.com/Fang-/suite): A framework for Sail development (Hoon-only HTML)
 
 ## Educational Resources
 
